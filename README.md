@@ -1,0 +1,2 @@
+## Files:
+- transtats_parser: Parses the [website](https://www.transtats.bts.gov/Data_Elements.aspx?Data=2) to obtain data for all flight-airport combinations in the U.S. Data for each FL-APT combination is stored as a html file for further parsing with the transtats_parser to obtain the in and outs of each flight to and fro each airport.
